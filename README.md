@@ -1,2 +1,2 @@
 # Dummy 
-added a new feature
+Changes through terminal
